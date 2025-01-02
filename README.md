@@ -1,4 +1,5 @@
-## Hi!
+## Hi! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjessicahorton) 
+
 
 My name's Jess. :)
 
@@ -12,7 +13,7 @@ Right now, I am currently working on my first big Data Science project underneat
 
 Thanks so much for checking out my page. I'm glad you're here!
 
-### Languages, GUIs, and Pieces of Software I'm Knowledgable in
+### Languages, GUIs, and Software I'm Knowledgable in
  
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,14 +30,12 @@ Thanks so much for checking out my page. I'm glad you're here!
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
-### Languages, GUIs, and Pieces of Software I'm Eager to Learn About
+### Languages, GUIs, and Software I'm Eager to Learn About
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjessicahorton) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

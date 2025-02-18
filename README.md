@@ -13,7 +13,7 @@ Right now, I am currently working on my first Data Science project that has all 
 
 Thanks so much for checking out my page. I'm glad you're here!
 
-### Languages, GUIs, and Software I'm Knowledgable in
+### Languages and GUIs I'm Knowledgable in
  
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

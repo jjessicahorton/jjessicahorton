@@ -4,12 +4,10 @@
 My name's Jess. :)
 
 Currently, I'm...
-- a Physics major at Appalachian State Univeristy
-- Working in [Dr. Andrew Bellemer's](https://biology.appstate.edu/directory/dr-andrew-bellemer) Neuroscience lab
-- A Medical Office Assistant at UNC Health Appalachian
+- a recent Physics graduate from Appalachian State Univeristy
+- A former research student in [Dr. Andrew Bellemer's](https://biology.appstate.edu/directory/dr-andrew-bellemer) Neuroscience lab
+- A front desk associate for a Marriott property in Boone, NC
 - A prospective Data Scientist in the making!
-
-Right now, I am currently working on my first Data Science project that has all been made possible thanks to the hardworking scientists who have created and maintain [FlyWire](https://flywire.ai/). I am very excited about it, and I'm looking forward to sharing my work here soon!
 
 Thanks so much for checking out my page. I'm glad you're here!
 

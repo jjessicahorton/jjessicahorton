@@ -6,8 +6,7 @@ My name's Jess. :)
 Currently, I'm...
 - a recent Physics graduate from Appalachian State Univeristy
 - A former research student in [Dr. Andrew Bellemer's](https://biology.appstate.edu/directory/dr-andrew-bellemer) Neuroscience lab
-- A front desk associate for a Marriott property in Boone, NC
-- A prospective Data Scientist in the making!
+- - A prospective Data Scientist in the making!
 
 Thanks so much for checking out my page. I'm glad you're here!
 

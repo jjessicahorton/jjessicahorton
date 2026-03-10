@@ -43,6 +43,11 @@ Thanks so much for checking out my page. I'm glad you're here!
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjessicahorton) 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 

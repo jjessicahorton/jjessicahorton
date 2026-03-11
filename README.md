@@ -1,7 +1,7 @@
 ## Hi! 
 
 
-My name's Jess. :)
+### My name's Jess. :)
 
 Currently, I'm...
 - a recent Physics, Interdisciplinary Sciences graduate from Appalachian State Univeristy

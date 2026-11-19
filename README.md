@@ -5,7 +5,7 @@
 
 Currently, I'm...
 - a recent Physics, Interdisciplinary Sciences graduate from Appalachian State Univeristy
-- A graduate student working on a connectomics project in [Dr. Andy Bellemer's](https://biology.appstate.edu/directory/dr-andrew-bellemer) Neuroscience lab
+- A Cellular and Molecular Biology M.Sc. student working on a connectomics project in [Dr. Andy Bellemer's](https://biology.appstate.edu/directory/dr-andrew-bellemer) Neuroscience lab
 
 Thanks so much for checking out my page. I'm glad you're here!
 
